@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/sahanasite/:/",
-    "/content/sahanasite/configuration:/.helix/config.json",
-    "/content/sahanasite/metadata:/metadata.json"
+    "/content/sahanaeds9/:/",
+    "/content/sahanaeds9/configuration:/.helix/config.json",
+    "/content/sahanaeds9/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/sahanasite/"
+    "/content/sahanaeds9/"
   ]
 }
