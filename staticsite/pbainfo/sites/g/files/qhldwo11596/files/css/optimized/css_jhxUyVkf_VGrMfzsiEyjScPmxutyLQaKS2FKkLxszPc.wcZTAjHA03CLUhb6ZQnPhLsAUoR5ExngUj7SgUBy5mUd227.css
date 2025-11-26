@@ -1,0 +1,1 @@
+.with-default-video-overlay::before{background:url("../../../themes/site/themes/custom/otsuka_ds2022_pba_info/dist/img/icons/icon-play.svg") no-repeat center center rgba(0,0,0,0) !important;background-size:contain !important;width:60px;height:60px;border-radius:50%}.with-default-video-overlay.wide::before{width:100px;height:100px}

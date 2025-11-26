@@ -1,0 +1,12 @@
+/*
+ * @file: otsuka_sfmc_registration.scss
+ * @description: general css for frontend SFMC Registration forms
+ */
+
+.sfmc-conceal,
+.webform-sfmc-interaction-details--wrapper {
+  display: none;
+}
+
+
+/*# sourceMappingURL=otsuka_sfmc_registration.css.map */
