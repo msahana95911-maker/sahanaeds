@@ -38,5 +38,9 @@
       "button",
       "title"
     ]
+  },
+  {
+    "id": "quote",
+    "components": []
   }
 ]
